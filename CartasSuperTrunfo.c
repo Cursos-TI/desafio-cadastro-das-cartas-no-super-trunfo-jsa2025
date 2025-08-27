@@ -1,13 +1,13 @@
 #include <stdio.h>
  
 int main() {
-    char Carta[20] = "A01";
-    char Estado = 'A';
-    char Cidade[20] = "Itaporanga";
-    int  População = 25000;
-    float Àrea  =  1521.11;
-    double PIB = 12345.67;
-    int pontoturistico = 3;
+    char Carta[20] = "A02";
+    char Estado = 'B';
+    char Cidade[20] = "Boa Ventura-PB";
+    int  População = 15000;
+    float Àrea  =  1000;
+    double PIB = 10000;
+    int pontoturistico = 1;
     
     printf("Carta: %s\n", Carta);
     printf("Estado: %c\n", Estado);
