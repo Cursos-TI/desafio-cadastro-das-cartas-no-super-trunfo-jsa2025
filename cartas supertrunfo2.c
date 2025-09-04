@@ -21,8 +21,8 @@ int main() {
     int PontoTuristico2 = 2;
     float  DensidadePopulacional2;
     float PIBperCapita2;
-  
-         
+
+            
     printf("Carta: %s\n", Carta);
     printf("Estado: %c\n", Estado);
     printf("Cidade: %s\n", Cidade);
